@@ -39,4 +39,18 @@ Refer to the structure of the .env file in the image below 👇:
 
 ## Sample.env
 
-<img src="/images/sampleEnv.png" alt="Screenshot" width="600" height="400">
+![Project Screenshot](client/public/images/sampleEnv.png)
+
+### Step 5: Start the Project
+
+```bash
+cd client
+npm run dev
+
+cd server
+npm run dev
+```
+
+🚀 You're All Set!
+Your LinkedIn Clone should now be running locally! Open your browser and go to http://localhost:5173 to access the application.
+
