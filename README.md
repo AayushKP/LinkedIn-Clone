@@ -5,6 +5,7 @@ Welcome to the **LinkedIn Clone** project! This application mimics the core func
 ## 📋 Prerequisites
 
 Make sure you have the following installed:
+
 - **Node.js** (v14 or above)
 - **Git**
 
@@ -37,6 +38,5 @@ Before starting the project, you need to create a .env file in the server direct
 Refer to the structure of the .env file in the image below 👇:
 
 ## Sample.env
-<img src="./images/sampleEnv.png" alt="Screenshot" width="600" height="400">
 
-
+<img src="/images/sampleEnv.png" alt="Screenshot" width="600" height="400">
