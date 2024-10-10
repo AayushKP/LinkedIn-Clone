@@ -54,3 +54,15 @@ npm run dev
 🚀 You're All Set!
 Your LinkedIn Clone should now be running locally! Open your browser and go to http://localhost:5173 to access the application.
 
+### Screenshots :
+
+![Project Screenshot](client/public/images/Login.png)
+![Project Screenshot](client/public/images/SignUp.png)
+![Project Screenshot](client/public/images/Feed.png)
+![Project Screenshot](client/public/images/UserProfile.png)
+![Project Screenshot](client/public/images/Profile-Update.png)
+![Project Screenshot](client/public/images/Feed.png)
+![Project Screenshot](client/public/images/notification.png)
+![Project Screenshot](client/public/images/mail.png)
+![Project Screenshot](client/public/images/other's-pov-profile.png)
+![Project Screenshot](client/public/images/other's-pov-feed.png)
