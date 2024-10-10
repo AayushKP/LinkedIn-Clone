@@ -37,6 +37,6 @@ Before starting the project, you need to create a .env file in the server direct
 Refer to the structure of the .env file in the image below 👇:
 
 ## Sample.env
-<img src="./images/sample.env.png" alt="Screenshot" width="600" height="400">
+<img src="./images/sampleEnv.png" alt="Screenshot" width="600" height="400">
 
 
