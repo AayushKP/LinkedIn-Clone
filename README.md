@@ -60,6 +60,7 @@ Your LinkedIn Clone should now be running locally! Open your browser and go to h
 ![Project Screenshot](client/public/images/SignUp.png)
 ![Project Screenshot](client/public/images/UserProfile.png)
 ![Project Screenshot](client/public/images/Profile-Update.png)
+![Project Screenshot](client/public/images/posts.png)
 ![Project Screenshot](client/public/images/notification.png)
 ![Project Screenshot](client/public/images/mail.png)
 ![Project Screenshot](client/public/images/other's-pov.png)
